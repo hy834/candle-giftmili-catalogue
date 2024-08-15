@@ -1,0 +1,97 @@
+/* CSS class definition */
+.custom-navbar-color {
+    background-color: #ffc0cb; /* Change pink to the desired color */
+
+  }
+  
+  .navbar.navbar-brand {
+    padding : 0;
+  }
+  
+  
+
+  #logos{
+    padding-left: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-right:0% ;
+  }
+
+  .giftmili{
+    font-family: fantasy;
+    font-size: larger;
+    color: darkmagenta;
+  }
+
+
+
+ navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: magenta var(--bs-navbar-active-color);
+}
+.custom-btn {
+  background-color: pink;
+  color: white; /* optional: change the text color to white */
+}
+
+.section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.main-heading{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #d63384;;
+  font-weight: bolder;
+}
+
+.underline{
+  height: 4px;
+  width: 4rem;
+  background-color:#d63384;;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.light-pink-btn {
+  background-color: #ffc0cb; /* Light pink color */
+  border-color: #ffc0cb; /* Match the border color with the background color */
+  color: #fff; /* Text color */
+}
+
+.btn-c:hover{
+  background-color: #ffb6c1; /* Darker shade of pink on hover */
+  border-color: #ffb6c1;
+  color: #fff;
+}
+
+.pinku{
+  color: #d63384;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.main-colour {
+  background-color: mistyrose; /* Fallback color */
+  background-image: url('./components/images/pinkie.png'); /* Adjusted path */
+  background-repeat: no-repeat;
+  background-size: cover; /* Adjust as needed */
+}
+
+a.btn.custom-btn{
+  background-color:#ffc0cb;
+}
+.footer-links a {
+  color: #d63384 !important; /* Pink color */
+  text-decoration: none !important;
+}
+
+.footer-links a:hover {
+  color: #ff69b4 !important; /* Darker pink on hover */
+}
+.babyPinku{
+  color: #d63384;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
